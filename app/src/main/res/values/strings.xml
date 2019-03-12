@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MailNews</string>
+    <string name="title_news">News</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_settings">Settings</string>
+    <string name="find_news_item">Find news</string>
+    <string name="news_details">News details</string>
+    <string name="pages">pages</string>
+    <string name="add_to_favorite">Add to favorite</string>
+    <string name="news_item_not_found">News not found</string>
+    <string name="failed_to_load_news_list">"Failed to load news list"</string>
+    <string name="failed_to_load_news_item">"Failed to load news item"</string>
+    <string name="no_favorites">No favorites</string>
+    <string name="app_version">App version</string>
+</resources>
